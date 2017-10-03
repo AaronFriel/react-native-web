@@ -3,6 +3,7 @@
   "version": "0.1.16",
   "description": "React Native for Web",
   "main": "dist/index.js",
+  "module": "src/module.js",
   "files": [
     "babel",
     "dist",
