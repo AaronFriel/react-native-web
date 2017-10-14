@@ -3,6 +3,7 @@
   "version": "0.1.9",
   "description": "React Native for Web",
   "main": "dist/index.js",
+  "module": "src/module.js",
   "files": [
     "babel",
     "dist",
@@ -98,6 +99,7 @@
     "raf": "^3.3.2",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
+    "react-modal": "^3.0.0",
     "react-test-renderer": "^16.0.0",
     "url-loader": "^0.5.9",
     "webpack": "^3.6.0",
